@@ -1,0 +1,5 @@
+export enum MANGA_STATUS {
+  UNRELEASED = 0,
+  ONGOING = 1,
+  COMPLETED = 5,
+}
